@@ -1,0 +1,2 @@
+Welcome to SFD 5!
+This is command line interface session.
